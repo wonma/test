@@ -51,12 +51,11 @@ header{
 header .container {
 	padding-top:10%;}
 
-header .container .row{
-	border:1px solid red;}
+header .container .row{}
 
 header .container .row h1{
 	font-size:3rem;
-	border:1px solid blue;
+/*	border:1px solid blue;*/
 	color:#fff;}
 header .container .row .emailbox{
 	border:1px solid blue; padding-top:7%; color:#fff;
