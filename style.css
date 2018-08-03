@@ -58,7 +58,7 @@ header .container .row h1{
 /*	border:1px solid blue;*/
 	color:#fff;}
 header .container .row .emailbox{
-	border:1px solid blue; padding-top:7%; color:#fff;
+	padding-top:7%; color:#fff;
 }
 
 header .container .row .emailbox .btn{
